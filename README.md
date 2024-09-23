@@ -2,5 +2,3 @@
 - Ciao
 - ciao1
 - ciao2
-
-! [Mercedes] (https://picsum.photos/200/300)
