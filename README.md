@@ -3,7 +3,7 @@
 ## Dati personali
 
 - **Nome**: Gianfelice Antonio Pio Casiere
-- - **Data di nascita**: 27/06/2001
+- **Data di nascita**: 27/06/2001
 - **e-mail**: casieregianfelice01@gmail.com
 - **Data di nascita**: 27/06/2001
 - **GitHub**: [cas-Gianfelice] (https://github.com/Cas-Gianfelice)
