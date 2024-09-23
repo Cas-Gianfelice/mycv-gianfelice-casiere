@@ -12,4 +12,5 @@
 **Settembre 2014 - Giugno 2019**
 
 <span style="color: red;">-</span> Voto finale: 80/100
+
 <span style="color: red;">-</span> Principali materie studiate: Progettazione, Costruzioni, Topografia
