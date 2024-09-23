@@ -14,9 +14,7 @@
 - Voto finale: 80/100
 - Principali materie studiate: Progettazione, Costruzioni, Topografia
 
-## Istruzione
-
-### Corso di Formazione - Aulab
+## Corso di Formazione - Aulab
 **Settembre 2023 - 14 Gennaio 2025**
 
 - Programmazione Web e Sviluppo Software
