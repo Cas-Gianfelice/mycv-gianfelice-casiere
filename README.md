@@ -5,6 +5,7 @@
 - **Nome**: Gianfelice Antonio Pio
 - **Cognome**: Casiere
 - **e-mail**: casieregianfelice01@gmail.com
+- **Data di nascita**: 27/06/2001
 - **GitHub**: [cas-Gianfelice] (https://github.com/Cas-Gianfelice)
 
 ## Istruzione
