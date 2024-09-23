@@ -11,6 +11,5 @@
 ## Diploma di Geometra - Istituto Tecnico per Geometri
 **Settembre 2014 - Giugno 2019**
 
-<span style="color: red;">-</span> Voto finale: 80/100
-
-<span style="color: red;">-</span> Principali materie studiate: Progettazione, Costruzioni, Topografia
+- Voto finale: 80/100
+- Principali materie studiate: Progettazione, Costruzioni, Topografia
